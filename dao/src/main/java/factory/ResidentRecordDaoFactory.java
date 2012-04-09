@@ -1,4 +1,4 @@
-﻿package main.java.factory;
+package main.java.factory;
 
 import com.medicalinformation.dao.impl.ResidentRecordDaoImpl;
 

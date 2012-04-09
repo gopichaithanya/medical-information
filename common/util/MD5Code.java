@@ -1,4 +1,4 @@
-﻿package com.medicalinformation.util;
+package com.medicalinformation.util;
 
 public class MD5Code {
 	/*

@@ -34,10 +34,10 @@ public class RegisterServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		String identity = "»¼Õß";		// ÓÃÓÚÊ¶±ğÒª×¢²áµÄ½ÇÉ«ÀàĞÍ
-		Integer user = null;			// ±êÊ¶ĞÂ½¨µÄÓÃ»§
+		String identity = "æ‚£è€…";		// ç”¨äºè¯†åˆ«è¦æ³¨å†Œçš„è§’è‰²ç±»å‹
+		Integer user = null;			// æ ‡è¯†æ–°å»ºçš„ç”¨æˆ·
 		String rememberUrl = "/jsp/usercenter.jsp";
-		if("»¼Õß".equals(identity)) {
+		if("æ‚£è€…".equals(identity)) {
 			ResidentRecord rr = new ResidentRecord();
 			rr.setBirthday(Date.valueOf(request.getParameter("birthday")));
 			rr.setCompany(request.getParameter("company"));

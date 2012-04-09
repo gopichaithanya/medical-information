@@ -1,4 +1,4 @@
-﻿package com.medicalinformation.filter;
+package com.medicalinformation.filter;
 
 import java.io.IOException;
 import javax.servlet.Filter;
