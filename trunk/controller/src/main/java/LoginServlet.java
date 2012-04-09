@@ -1,4 +1,4 @@
-﻿package com.medicalinformation.servlet;
+package com.medicalinformation.servlet;
 
 import java.io.IOException;
 import javax.servlet.ServletException;

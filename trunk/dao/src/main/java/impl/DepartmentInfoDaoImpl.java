@@ -1,4 +1,4 @@
-﻿package main.java.impl;
+package main.java.impl;
 
 import com.medicalinformation.dao.proxy.GenericDaoProxy;
 import com.medicalinformation.vo.DepartmentInfo;

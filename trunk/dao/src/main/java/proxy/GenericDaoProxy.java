@@ -1,4 +1,4 @@
-﻿package main.java.proxy;
+package main.java.proxy;
 
 import com.medicalinformation.dbc.DatabaseConnection;
 

@@ -1,4 +1,4 @@
-﻿package com.medicalinformation.dbc;
+package com.medicalinformation.dbc;
 
 /**
  * @author Administrator

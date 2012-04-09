@@ -1,4 +1,4 @@
-﻿package com.medicalinformation.vo;
+package com.medicalinformation.vo;
 
 public class DepartmentInfo {
 	public int getDepartmentid() {
